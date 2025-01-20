@@ -1,5 +1,5 @@
 ## OVERVIEW:
-This project is an ** Microsoft Excel-based social media analytics tracker** designed to help content creators and marketers monitor their performance on Instagram and TikTok. The tool tracks engagement metrics such as likes, views, comments, shares, and saves, and provides automated insights through calculations and visualisations.
+This project is an **Microsoft Excel-based social media analytics tracker** designed to help content creators and marketers monitor their performance on Instagram and TikTok. The tool tracks engagement metrics such as likes, views, comments, shares, and saves, and provides automated insights through calculations and visualisations.
 
 The file includes pivot tables, interactive charts, and formulas that calculate key metrics like engagement rate and total engagement, allowing for quick performance assessments across different platforms and content types.
 
